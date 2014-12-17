@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "x_change_machine.py", line 405, in <module>
+  File "x_change_machine.py", line 126, in __init__
+  File "x_change_machine.py", line 156, in initCanvas
+  File "lib\canvas\layer.pyc", line 46, in __init__
+    
+  File "ImageFont.pyc", line 218, in truetype
+  File "ImageFont.pyc", line 134, in __init__
+  File "ImageFont.pyc", line 34, in __getattr__
+ImportError: The _imagingft C module is not installed
